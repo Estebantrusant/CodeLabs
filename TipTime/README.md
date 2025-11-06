@@ -1,9 +1,14 @@
-## 💸 CodeLab realizado en este directorio 💸
-En este directorio se encuentra el siguiente proyecto:
+# 💸 CodeLab: Propinas (Manejo de Estado y Pruebas)
 
-* **TipTime**: Proyecto de **calculadora de propinas** (Tip Calculator) en Jetpack Compose, resultado de completar los CodeLabs:
-    * **Intro to State in Compose**
-    * **Calculate a custom tip**
-    * **Write automated tests**
+Esta carpeta contiene el proyecto **Propinas** (Tip Calculator), una calculadora de propinas desarrollada como resultado de los siguientes CodeLabs:
 
-    Este CodeLab provienen del curso [Interacting with UI and state](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-3). El objetivo principal del proyecto es la **familiarización y práctica con el concepto del estado** (`State`) y el manejo de la interacción del usuario en Jetpack Compose.
+> **Intro to State in Compose**, **Calculate a custom tip** y **Write automated tests**
+
+Estos ejercicios forman parte del curso [Interacting with UI and state](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-3) de Android Developers.
+
+## ✨ Objetivo del CodeLab
+
+El objetivo principal de estos CodeLabs es la **familiarización profunda con el concepto del estado (`State`)** en **Jetpack Compose**, incluyendo:
+* La declaración y manejo de estados mutables.
+* La actualización de la interfaz de usuario en función de la interacción.
+* La implementación de **pruebas automatizadas** para la lógica de la aplicación.
