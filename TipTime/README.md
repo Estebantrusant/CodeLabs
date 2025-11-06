@@ -1,24 +1,9 @@
-Tip Time - Solution Code
-=================================
+## 💸 CodeLab realizado en este directorio 💸
+En este directorio se encuentra el siguiente proyecto:
 
-Starter code for the [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course): Tip Time app.
+* **TipTime**: Proyecto de **calculadora de propinas** (Tip Calculator) en Jetpack Compose, resultado de completar los CodeLabs:
+    * **Intro to State in Compose**
+    * **Calculate a custom tip**
+    * **Write automated tests**
 
-
-Introduction
-------------
-The Tip Time app contains various UI elements for calculating a tip,
-teaching about user input, and State in Compose.
-
-
-Pre-requisites
---------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+    Este CodeLab provienen del curso [Interacting with UI and state](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-3). El objetivo principal del proyecto es la **familiarización y práctica con el concepto del estado** (`State`) y el manejo de la interacción del usuario en Jetpack Compose.
