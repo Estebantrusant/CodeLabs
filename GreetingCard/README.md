@@ -1,5 +1,11 @@
-## 💌 CodeLab realizado en este repositorio 💌
-En este repositorio se encuentra el **resultado final** del proyecto desarrollado a lo largo deL siguiente curso de Android Developers:
+# 💌 CodeLab: Greeting Card (Layout Básico)
 
-* **[Setup Android Studio](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-2#codelab-https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app)**:
-    * El resultado es el proyecto **Greeting Card** (Tarjeta de Saludos), una aplicación básica en Jetpack Compose que enseña a **introducir imágenes y texto** para construir un *layout* sencillo.
+Esta carpeta contiene el proyecto **Greeting Card** (Tarjeta de Saludos), una aplicación básica desarrollada como resultado de los CodeLabs del curso:
+
+> **Build a basic layout**
+
+Este curso forma parte de la Unidad 1 de **Android Basics with Compose** de Android Developers.
+
+## ✨ Objetivo del CodeLab
+
+El objetivo principal de este CodeLab es aprender a construir un **layout básico** en **Jetpack Compose**, practicando la combinación de elementos como `Text` e `Image` para crear interfaces de usuario simples.
